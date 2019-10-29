@@ -1,0 +1,35 @@
+@font-face {
+font-family: 'FSLucasWeb-Regular';
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Regular-eot.eot'); /* IE9 */
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Regular-eot.eot?#iefix') format('embedded-opentype'), url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Regular-woff.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'FSLucasWeb-Bold';
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Bold-eot.eot'); /* IE9 */
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Bold-eot.eot?#iefix') format('embedded-opentype'), url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Bold-woff.woff') format('woff'); /* Modern Browsers */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'FSLucasWeb-Italic';
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Italic-eot.eot'); /* IE9 */
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Italic-eot.eot?#iefix') format('embedded-opentype'), url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Italic-woff.woff') format('woff'); /* Modern Browsers */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'FSLucasWeb-SemiBold';
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-SemiBold-eot.eot'); /* IE9 */
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-SemiBold-eot.eot?#iefix') format('embedded-opentype'), url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-SemiBold-woff.woff') format('woff'); /* Modern Browsers */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'FSLucasWeb-Light';
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Light-eot.eot'); /* IE9 */
+src: url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Light-eot.eot?#iefix') format('embedded-opentype'), url('https://viz.tools.investis.com/kb/fonts/tp-icap/FSLucasWeb-Light-woff.woff') format('woff'); /* Modern Browsers */
+font-weight: normal;
+font-style: normal;
+}

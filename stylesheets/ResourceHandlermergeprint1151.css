@@ -1,0 +1,129 @@
+/*---- print-----*/
+tr,
+p,
+img,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    page-break-inside: avoid;
+}
+
+a[href]:after {
+    content: none !important;
+}
+
+#content-banner,
+#bannerwrapper,
+#leftcol,
+.left-container,
+#breadcrumb,
+#backtoTop,
+#footerwrapper,
+.top-links,
+#navigation,
+#threecolright,
+#_cookieConsentWrapper,
+#loadmore,
+.contentleft-news .back,
+.mobishow,
+span.right-arrow,
+.sliderStateBtn,
+.drop-down,
+.consumer-link-wrap,
+#bannerContainer,
+table.reportTable .outlook-col,
+.sliderStateBtn {
+    display: none !important
+}
+
+.bodShowFieldsContainer,
+.snapdown-content.hide {
+    display: block !important;
+}
+
+.logo-inner {
+    margin-top: 0;
+}
+
+#logo {
+    height: auto;
+}
+
+.threecolcenter,
+#threecolcenter,
+.three-col-cover {
+    float: left;
+    width: 100%;
+}
+
+.three-col-cover,
+.title,
+.content,
+.contentleft-board,
+.boditem,
+.snap-item {
+    float: none;
+}
+
+.three-col-cover {
+    padding: 0;
+}
+
+.box-links a.pink {
+    color: #fff;
+}
+
+.box-links a {
+    position: relative;
+}
+
+#navigation,
+.content-banner-wrapper,
+.box-links a:before {
+    display: none;
+}
+
+.box-introtext {
+    height: auto !important;
+}
+
+.content-banner-wrapper {
+    display: none !important;
+}
+
+#leftcol.left-container,
+.rightcol-inner {
+    display: none !important;
+}
+
+#rightcol,
+#rightcol .maincontent {
+    width: 100% !important;
+}
+
+.snap-item .snapdown-title {
+    float: left;
+    width: 100% !important;
+    display: block !important;
+}
+
+.snapdown-title::before {
+    border: none !important;
+}
+
+.snap-item {
+    clear: both;
+    page-break-inside: avoid;
+    float: left;
+    width: 100% !important;
+    display: block !important;
+}
+
+.snapdown-content {
+    float: left;
+    width: 100% !important;
+    display: block !important;
+}

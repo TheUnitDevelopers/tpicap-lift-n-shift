@@ -1,0 +1,15 @@
+#rightcol-related-links-regulation {  }
+#rightcol-related-links-regulation h2 { margin:0; padding-top:0; border-bottom:1px solid #23303a; }
+#rightcol-related-links-regulation ul li { margin:0; padding:5px 0; border-bottom:1px solid #23303a; }
+#rightcol-related-links-regulation ul li a { color:#23303a; font-size:1.8rem; line-height:normal; }
+#rightcol-related-links-regulation ul li a:hover { color:#9032f5; }
+
+.regulation-bottom-signpost-wrapper {  }
+.regulation-bottom-signpost-wrapper h3 { font-size:2.0rem; line-height:normal; border-top:0px solid #23303a; }
+.regulation-bottom-signpost-item { margin-bottom:15px; }
+.regulation-bottom-signpost-item a { position:relative; float:left; width:100%; border-top:5px solid #23303a; }
+.regulation-bottom-signpost-item a img { width:100%; }
+.regulation-bottom-signpost-item a span { position:absolute; margin-top:10px; margin-left:10px; color:#23303a; font-size:2.0rem; line-height:normal; padding-right:15px; }
+.regulation-bottom-signpost-item a span:after { content:""; border-bottom:5px solid transparent; border-left:8px solid #23303a; border-top:5px solid transparent; display:block; position:absolute; right: 0; bottom:5px; }
+
+.content-bottom-signpost-text { margin-top:0px; }

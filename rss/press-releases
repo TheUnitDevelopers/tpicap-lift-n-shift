@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/~/media/Files/T/TP-ICAP/XSL/rss_xsl.xsl"?> 
+<rss version="2.0" xmlns:dt="http://xsltsl.org/date-time">
+
+ <channel>
+  <title>RSS – Press releases – TP ICAP plc</title>
+  <link>https://www.tpicap.com/rss/press-releases</link>
+  <language>en</language>
+<webMaster>TP ICAP plc</webMaster>
+<image>
+<url>https://www.tpicap.com/~/media/Images/T/TP-ICAP/logo/logo-rss-feed.jpg</url>
+</image>
+<item>
+<title><![CDATA[TP ICAP appoints Joanna Nader as Global Head of Strategy]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/TP ICAP appoints Joanna Nader as Global Head of Strategy</link>
+<pubDate>Wed, 16 Oct 2019 08:54:56 GMT</pubDate>
+<publishDate>Wed, 16 Oct 2019 08:58:35 GMT</publishDate>
+<guid>{91F0F12F-76CE-48E0-B7EB-0FA154B54E3E}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[TP ICAP Makes Africa OTC Data Available to the Market for the First Time]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/TP ICAP Makes African OTC Data Available to Market for the First Time</link>
+<pubDate>Tue, 08 Oct 2019 10:00:00 GMT</pubDate>
+<publishDate>Tue, 08 Oct 2019 14:46:37 GMT</publishDate>
+<guid>{58E1835D-C441-487D-813A-D8E3166F6433}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Tullett Prebon: first Insurance Linked Notes issued on natural catastrophe risk platform]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/Tullett Prebon first Insurance Linked Notes issued on natural catastrophe risk platform</link>
+<pubDate>Mon, 30 Sep 2019 23:30:00 GMT</pubDate>
+<publishDate>Tue, 01 Oct 2019 16:24:08 GMT</publishDate>
+<guid>{8BF8F778-9092-4A94-BAEA-171576E4C499}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[TP ICAP acquires innovative compression service]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/TP ICAP acquires innovative compression service</link>
+<pubDate>Tue, 17 Sep 2019 08:56:34 GMT</pubDate>
+<publishDate>Tue, 17 Sep 2019 08:59:36 GMT</publishDate>
+<guid>{6CDAE4B5-279F-4756-BD09-0E809E8470E4}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[TP ICAP appoints Amir Zaidi as Global Head of Compliance]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/Global Head of Compliance appointment</link>
+<pubDate>Tue, 03 Sep 2019 14:13:10 GMT</pubDate>
+<publishDate>Tue, 03 Sep 2019 14:16:47 GMT</publishDate>
+<guid>{8539CE16-42C3-49FF-863A-ED1C5F4595CD}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[TP ICAP Energy & Commodities launches China joint venture ]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/TP ICAP Energy and Commodities launches China joint venture</link>
+<pubDate>Tue, 06 Aug 2019 10:03:40 GMT</pubDate>
+<publishDate>Tue, 06 Aug 2019 11:39:47 GMT</publishDate>
+<guid>{0A46A620-C956-4F26-838E-5A655FD98B72}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[ICAP Information launches innovative Indian OTC data service]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/icap-information-launches-innovative-indian-otc-data-service</link>
+<pubDate>Wed, 03 Jul 2019 12:00:11 GMT</pubDate>
+<publishDate>Wed, 03 Jul 2019 12:07:54 GMT</publishDate>
+<guid>{4538E244-E75C-42C1-94AD-7B5765EDF4A5}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[ICAP - Fraudulent website posing as ICAP ]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/ICAP - Fraudulent website posing as ICAP</link>
+<pubDate>Mon, 01 Jul 2019 16:09:00 GMT</pubDate>
+<publishDate>Wed, 03 Jul 2019 12:29:00 GMT</publishDate>
+<guid>{580CF5BA-949F-4EA0-A557-F16B14429C42}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[TP ICAP has signed The Armed Forces Covenant]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/TP ICAP Signs Armed Forces Covenant</link>
+<pubDate>Thu, 27 Jun 2019 07:47:14 GMT</pubDate>
+<publishDate>Thu, 27 Jun 2019 08:33:52 GMT</publishDate>
+<guid>{82C3735F-7DF4-453D-B85B-ADCF1D772F02}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[ICAP launches Digital Asset Markets business]]></title>
+<link>https://www.tpicap.com/media/press-releases/2019/ICAP launches Digital Asset Markets business</link>
+<pubDate>Mon, 17 Jun 2019 15:14:41 GMT</pubDate>
+<publishDate>Mon, 17 Jun 2019 15:20:06 GMT</publishDate>
+<guid>{1C8A2DB8-A7F8-460F-B5F1-5D8B3C50EB95}</guid>
+<isalertable>False</isalertable>
+</item>
+
+  
+ </channel>
+</rss>

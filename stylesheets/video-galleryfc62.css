@@ -1,0 +1,14 @@
+.video-landing{padding-top: 10px;}
+.video-landing .video-item{width:48%;margin:0 1% 2%;float:left;}
+.video-landing .video-item-wrapper{position:relative;width:100%;}
+.video-landing .video-item-wrapper > a.watch-video-link {height: 100%; left: 0; padding: 0; position: absolute; top: 0; width: 100%;}
+.video-landing .video-item-wrapper > a.watch-video-link > span{font-size: 4rem; left: calc(50% - 22px); position: absolute; top: 50%;}
+.video-landing .video-item-wrapper a.watch-video-link:hover{text-decoration:none;background:rgba(35,48,58,0.7);color:#fff;}
+.video-landing .video-item .video-item-title{color: #23303a;
+    font-family: "FSLucasWeb-SemiBold",sans-serif;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    padding: 0px 0 5px;}
+@media all and (max-width:480px){
+.video-landing .video-item{width:100%; margin:0 0 30px;}
+}

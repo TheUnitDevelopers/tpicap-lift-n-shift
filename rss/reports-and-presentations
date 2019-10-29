@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/~/media/Files/T/TP-ICAP/XSL/rss_xsl.xsl"?> 
+<rss version="2.0" xmlns:dt="http://xsltsl.org/date-time">
+
+ <channel>
+  <title>RSS –  Reports and presentations – TP ICAP plc</title>
+  <link>https://www.tpicap.com/rss/reports-and-presentations</link>
+  <language>en</language>
+<webMaster>TP ICAP plc</webMaster>
+<image>
+<url>https://www.tpicap.com/~/media/Images/T/TP-ICAP/logo/logo-rss-feed.jpg</url>
+</image>
+<item>
+<title><![CDATA[Interim Results 2019 - Presentation Transcript]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Wed, 07 Aug 2019 09:00:00 GMT</pubDate>
+<publishDate>Thu, 12 Sep 2019 14:15:11 GMT</publishDate>
+<guid>{4795F547-2F59-4BE6-B259-8DFCD18C47F5}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Interim Results 2019 - Webcast link]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 06 Aug 2019 12:23:35 GMT</pubDate>
+<publishDate>Tue, 06 Aug 2019 12:25:02 GMT</publishDate>
+<guid>{254313DB-74CB-4266-A622-A8167ABAF44C}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Analysts Presentation – Interim Results 2019]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 06 Aug 2019 09:46:23 GMT</pubDate>
+<publishDate>Tue, 06 Aug 2019 12:37:35 GMT</publishDate>
+<guid>{C30CBBC8-B425-48FA-BAB6-217E4398726C}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Financial and Interim Management Report - for the six months ended 30 June 2019]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 06 Aug 2019 08:04:33 GMT</pubDate>
+<publishDate>Tue, 06 Aug 2019 08:34:56 GMT</publishDate>
+<guid>{902036D8-6A82-45B6-A158-EBC91FC8C386}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Annual Report and Accounts 2018]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 09 Apr 2019 16:31:01 GMT</pubDate>
+<publishDate>Tue, 09 Apr 2019 16:51:26 GMT</publishDate>
+<guid>{328A27A5-2BAE-4D91-B02A-6DCB94DE3398}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Preliminary Results 2018 - Presentation Transcript]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 19 Mar 2019 10:12:06 GMT</pubDate>
+<publishDate>Thu, 12 Sep 2019 16:11:14 GMT</publishDate>
+<guid>{127D3E64-67D3-4A6D-80A9-CB2C91650CDB}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Preliminary Results 2018]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 19 Mar 2019 10:05:40 GMT</pubDate>
+<publishDate>Tue, 19 Mar 2019 12:31:19 GMT</publishDate>
+<guid>{3AB8844C-043E-47B4-88B8-E2CEBFA14044}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Analysts Presentation – Preliminary Results 2018]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 19 Mar 2019 09:51:36 GMT</pubDate>
+<publishDate>Tue, 19 Mar 2019 11:31:17 GMT</publishDate>
+<guid>{1FAF3457-7CE3-4983-A11D-25CFB20675AF}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Preliminary Results 2018 - Webcast link]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Tue, 19 Mar 2019 07:25:30 GMT</pubDate>
+<publishDate>Tue, 19 Mar 2019 07:29:59 GMT</publishDate>
+<guid>{7833BBAE-0844-4212-BC92-F8054590BE49}</guid>
+<isalertable>False</isalertable>
+</item>
+<item>
+<title><![CDATA[Interim Results 2018 - Presentation Transcript]]></title>
+<link>https://www.tpicap.com/investors/reports-and-presentations</link>
+<pubDate>Fri, 10 Aug 2018 08:56:49 GMT</pubDate>
+<publishDate>Fri, 10 Aug 2018 09:05:23 GMT</publishDate>
+<guid>{107774A6-8520-48BD-AA26-ACB222670AC5}</guid>
+<isalertable>False</isalertable>
+</item>
+
+  
+ </channel>
+</rss>
