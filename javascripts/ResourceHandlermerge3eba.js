@@ -706,7 +706,7 @@ setEqualHeight_CommonClass(".upper-box box-content");
     function addBindings() {
         function clickHandler(e) {
             // ignore non-left-mouse-clicks and clicks modified with ctrl / command, shift, or alt.
-            // See: http://jacklmoore.com/notes/click-events/
+            // See: https://jacklmoore.com/notes/click-events/
             if (!(e.which > 1 || e.shiftKey || e.altKey || e.metaKey)) {
                 e.preventDefault();
                 launch(this);
@@ -861,7 +861,7 @@ setEqualHeight_CommonClass(".upper-box box-content");
             top: top,
             left: left
         };
-        if (speed === 0) { // temporary workaround to side-step jQuery-UI 1.8 bug (http://bugs.jquery.com/ticket/12273)
+        if (speed === 0) { // temporary workaround to side-step jQuery-UI 1.8 bug (https://bugs.jquery.com/ticket/12273)
             $box.css(css);
         }
         $box.dequeue().animate(css, {
@@ -1882,7 +1882,7 @@ function getEqualHeight_great(obj1, obj2, greater) {
 
 /*!
  * jQuery imagesLoaded plugin v2.1.0
- * http://github.com/desandro/imagesloade
+ * https://github.com/desandro/imagesloade
  */
 
 /*jshint curly: true, eqeqeq: true, noempty: true, strict: true, undef: true, browser: true */
@@ -2212,10 +2212,10 @@ Array.max = function(array) {
 
  Version: 1.5.9
   Author: Ken Wheeler
- Website: http://kenwheeler.github.io
-    Docs: http://kenwheeler.github.io/slick
-    Repo: http://github.com/kenwheeler/slick
-  Issues: http://github.com/kenwheeler/slick/issues
+ Website: https://kenwheeler.github.io
+    Docs: https://kenwheeler.github.io/slick
+    Repo: https://github.com/kenwheeler/slick
+  Issues: https://github.com/kenwheeler/slick/issues
 
  */
 /* global window, document, define, jQuery, setInterval, clearInterval */
@@ -5368,7 +5368,7 @@ $j(document).ready(function() {
 
 /*!---- back-to-top-----*/
 /**
- * Copyright (c) 2007-2012 Ariel Flesler - aflesler(at)gmail(dot)com | http://flesler.blogspot.com
+ * Copyright (c) 2007-2012 Ariel Flesler - aflesler(at)gmail(dot)com | https://flesler.blogspot.com
  * Dual licensed under MIT and GPL.
  * @author Ariel Flesler
  * @version 1.4.3.1

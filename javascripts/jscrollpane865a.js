@@ -3,7 +3,7 @@
  *
  * Copyright 2014 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 (function (factory) {
@@ -222,7 +222,7 @@
 
 /*!
  * jScrollPane - v2.0.23 - 2016-01-28
- * http://jscrollpane.kelvinluck.com/
+ * https://jscrollpane.kelvinluck.com/
  *
  * Copyright (c) 2014 Kelvin Luck
  * Dual licensed under the MIT or GPL licenses.

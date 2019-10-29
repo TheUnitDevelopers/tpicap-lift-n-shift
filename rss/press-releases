@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/~/media/Files/T/TP-ICAP/XSL/rss_xsl.xsl"?> 
-<rss version="2.0" xmlns:dt="http://xsltsl.org/date-time">
+<rss version="2.0" xmlns:dt="https://xsltsl.org/date-time">
 
  <channel>
   <title>RSS – Press releases – TP ICAP plc</title>
