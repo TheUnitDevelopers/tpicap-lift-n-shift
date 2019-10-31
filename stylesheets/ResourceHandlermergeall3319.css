@@ -10099,9 +10099,17 @@ li>span:hover {
     text-transform: uppercase;
 }
 
+.signupButton {
+    font-size: 24px;
+    padding: 13px;
+    background-color: #fff;
+    color: #223039;
+    border-radius: 2px;
+}
 
-.alert-reg-container {
-  display: none !important;
+.signupButton:hover {
+    background-color: transparent;
+    color: #fff;
 }
 
 .alert-reg-container p {
